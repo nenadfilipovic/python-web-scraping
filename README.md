@@ -1,4 +1,4 @@
-# Python Web Scraping
+# Python web scraping
 
 Practicing web scraping on republic hydro meteorological service of Serbia website.
 Goal is to list all temperatures and weather conditions for listed cities.
