@@ -7,7 +7,7 @@ Practice is done using [BeautifulSoup](https://www.crummy.com/software/Beautiful
 
 ## Getting Started
 
-Clone this repository
+Clone this repository:
 
 ```
 git clone https://github.com/nenadfilipovic/python-web-scraping
@@ -47,7 +47,7 @@ git clone https://github.com/nenadfilipovic/python-web-scraping
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
